@@ -2,6 +2,7 @@
 main section{
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows:none;
+    padding-top: 12%;
 }
 
 main section img{
