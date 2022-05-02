@@ -1,4 +1,6 @@
-
+main h2{
+    padding-bottom: 0;
+}
 main section{
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows:none;
